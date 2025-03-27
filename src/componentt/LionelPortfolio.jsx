@@ -99,7 +99,7 @@ const Home = () => {
           accessibility. With a strong background in front-end technologies and a keen eye for design, I aim to
           build digital experiences that not only look great but also function flawlessly across devices.
           Feel free to contact me if you're looking for a dedicated and creative developer to bring your ideas to life!
-          gi
+          
         </p>
       </div>
 
