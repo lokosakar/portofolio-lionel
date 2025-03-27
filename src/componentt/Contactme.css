@@ -1,0 +1,27 @@
+.aboutme{
+background-color: white;
+color: black;
+width: 100pw;
+display: flex;
+gap: 1rem;
+padding: 4rem;
+}
+.aboutme p{
+margin: 0;
+
+
+}
+
+.aboutme h1{
+    font-weight: bold;
+}
+.muka{
+    width: 300px;
+    
+    aspect-ratio: 1/1;
+    background-size: cover;
+    
+}
+.namanya {
+    font-weight: bolder;
+}
