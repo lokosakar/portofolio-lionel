@@ -6,7 +6,7 @@ const Contactme = () => {
   
   return (
     <div className="aboutme">
-        <div> <img src="src/assets/WhatsApp Image 2025-03-25 at 12.30.18.jpeg" alt="HTML" className="muka" /></div>
+        <div> <img src="/WhatsApp Image 2025-03-25 at 12.30.18.jpeg" alt="HTML" className="muka" /></div>
         <div>
             
             <h1>Contact</h1>

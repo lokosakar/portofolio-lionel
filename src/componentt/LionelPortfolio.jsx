@@ -38,23 +38,23 @@ const Skills = () => {
       <h2>My Skills</h2>
       <ul>
         <li>
-          <img src="src/assets/html.webp" alt="HTML" className="skill-logo" />
+          <img src="html.webp" alt="HTML" className="skill-logo" />
           HTML
         </li>
         <li>
-          <img src="src/assets/download (5).png" alt="CSS" className="skill-logo" />
+          <img src="download (5).png" alt="CSS" className="skill-logo" />
           CSS
         </li>
         <li>
-          <img src="src/assets/download (2).jpg" alt="JavaScript" className="skill-logo" />
+          <img src="download (2).jpg" alt="JavaScript" className="skill-logo" />
           JavaScript
         </li>
         <li>
-          <img src="src/assets/react.png" alt="React" className="react-logo" />
+          <img src="react.png" alt="React" className="react-logo" />
           React
         </li>
         <li>
-          <img src="src/assets/download (6).png" alt="GSAP" className="skill-logo" />
+          <img src="download (6).png" alt="GSAP" className="skill-logo" />
           GSAP
         </li>
       </ul>
@@ -104,7 +104,7 @@ const Home = () => {
       </div>
 
       <div className="photo-section">
-        <img src="src/assets/WhatsApp Image 2025-03-25 at 12.30.18.jpeg" alt="Lionel Liauw" />
+        <img src="/WhatsApp Image 2025-03-25 at 12.30.18.jpeg" alt="Lionel Liauw" />
       </div>
     </div>
   );
